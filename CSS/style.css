@@ -1,0 +1,50 @@
+/* body{
+  background-color: lightpink;
+}
+
+div{
+  background-color: lightgreen;
+}
+
+.container{
+  background-color: slategray;
+  height: 300px;
+  width: 300px;
+  border: 2px solid yellow;
+  margin-top: 50px;
+  margin-left: 300px;
+  padding-top: 100px;
+  padding-left: 100px;
+  border-radius: 5%;
+  box-shadow: 1cap 1px 2px;
+
+}
+
+
+.child1{
+  background-color: lightcyan;
+  border: 1px dotted black;
+  height: 100px;
+  width: 100px;
+  padding-top: 20px;
+  padding-left: 40px;
+  color:blue;
+} */
+
+
+
+
+
+
+div>p{
+  background-color: yellow;
+}
+.para{
+  background-color: lightblue;
+}
+#para1{
+  background-color: rgb(136, 74, 74);
+}
+p{
+  background-color: gray;
+}
